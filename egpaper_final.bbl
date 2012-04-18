@@ -1,0 +1,124 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{dataset1}
+J.~Deng, W.~Dong, R.~Socher, L.~J.~Li, K.~Li and L.~Fei-Fei.
+\newblock ImageNet: A Large-Scale Hierarchical Image Database.
+\newblock {\em To Appear in IEEE Computer Vision and Pattern Recognition (CVPR)}, 2009.
+
+\bibitem{dataset2}
+L.~Fei-Fei, R.~Fergus, and P.~Perona.
+\newblock One-shot learning of object cateories.
+\newblock {\em PAMI}, 28(4):594--611, 2006.
+
+\bibitem{dataset3}
+G.~Griffin, A.~Holub, and P.~Perona.
+\newblock Caltech-256 object category dataset.
+\newblock Technical Report 7694, Caltech, 2007.
+
+\bibitem{dataset4}
+M.~Everingham, L.~Van~Gool, C.~K.~I.~Williams, J.~Winn, and A.~Zisserman.
+\newblock The PASCAL Visual Object Class Challenge 2008(VOC2008) Results.
+\newblock {\em http://www.pascal-network.org/challenges/VOC/voc2008/workshop}, 2008.
+
+\bibitem{single1}
+V.~Ferrari, T.~Tuytelaars, and L.~Van~Gool.
+\newblock Simultaneous object recognition anf segmentation from single or multiple model views.
+\newblock {\em IJCV}, April, 2006.
+
+\bibitem{single2}
+S.~Ullman, and R.~Basri.
+\newblock Recognition by linear combination of models.
+\newblock Technical Report, Cambridge, MA, USA, 1989.
+
+\bibitem{single3}
+M.~Brown, and D.~Lowe.
+\newblock Unsupervised 3D object recognition and reconstruction in unordered datasets. 
+\newblock {\em 3DIM05}, 2005.
+
+
+\bibitem{feature1}
+D.~Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.  
+\newblock {\em IJCV}, 60(2):91--110, 2004.
+
+\bibitem{feature2}
+S.~Lazebnik, C.~Schmid, and J.~Ponce.
+\newblock A sparse texture representation using local affine regions. 
+\newblock {\em PAMI}, 27(8):1265--1278, 2005.
+
+\bibitem{feature3}
+A.~Johnson, and M.~Hebert.
+\newblock Using spin images for efficient pbject recognition in cluttered 3d scenes.  
+\newblock {\em PAMI}, 21(1):433--449, May 1999.
+
+\bibitem{feature4}
+J.~Winn, A.~Criminisi, and T.~Minka.
+\newblock Categorization by learned universal visual dictionary. 
+\newblock {\em ICCV}, 2005.
+
+\bibitem{multiview1}
+M.~Sun, H.~Su, S.~Savarese, and L.~Fei-Fei.
+\newblock A Multi-View Probablistic Model for 3D Object Classes.
+\newblock {\em CVPR}, 2009.
+
+\bibitem{multiview3}
+S.~Savarese, and L.~Fei-Fei.
+\newblock View synthesis for recognizing unseen poses of object classes. 
+\newblock {\em ECCV}, 2008.
+
+\bibitem{multiview2}
+A.~Thomas, V.~Ferrari, B.~Leibe, T.~Tuytelaars, B.~Schiele, and L.~Van~Gool.
+\newblock Towards multi-view object class detection.  
+\newblock {\em CVPR}, 2006.
+
+\bibitem{multiview4}
+A.~Torralba, K.~P.~Murphy, and W.T.~Freeman.
+\newblock Sharing visual features for multiclass and multiview object detection. 
+\newblock {\em PAMI}, 2007.
+
+\bibitem{view1}
+P.~Viola, and M.~Jones.
+\newblock Rapid object detection using a boosted cascade of simple features. 
+\newblock {\em CVPR}, 762--769, 2004.
+
+\bibitem{view2}
+M.~Weber, M.~Welling, and P.~Perona.
+\newblock Unsupervised learning of models for recognition. 
+\newblock {\em ECCV}, 101--108, 2000.
+
+\bibitem{view3}
+R.~Fergus, P.~Perona, and A.~Zisserman.
+\newblock Object class recognition by unsupervised scale-invariant learning. 
+\newblock {\em CVPR}, 264--271, 2003.
+
+\bibitem{aspect1}
+M.~Quigley, S.~Batra, S.~Gould, E.~Klingbeil, Q.~Le, A.~Wellman, and A.~Y.~Ng.
+\newblock High-Accuracy 3D Sensing for Mobile Manipulation: Improving Object Detection and Door Opening.  
+\newblock {\em ICRA}, 2009.
+
+\bibitem{bag1}
+G.~Csurka, C.~Dance, L.~Fan, J.~Willamowski, and C.~Bray.
+\newblock Visual Categorization with Bags of Keypoints.  
+\newblock {\em In Proceedings of the Workshop on Statistical Learning in Computer Vision }, 2004.
+
+\bibitem{bag2}
+L.~Fei-Fei, R.~Fergus, and A.~Torralba.
+\newblock Recognizing and Learning Object Categories. 
+\newblock {\em Short Course at ICCV }, 2005.
+
+\bibitem{codebook1}
+T.~Kinnunen, J.~Kristan, L.~Lensu, and H.~Kalviainen.
+\newblock Bag-of-features Codebook Generation by Self-Organisation.
+\newblock {\em Proceedings of the 7th International Workshop on Advances in Self-Organizing Maps }, 2009.
+
+\bibitem{thirdparty1}
+C.~S.~Gaddam
+\newblock Visualizing Color Image Histograms.
+\newblock {\em http://www.discerniblepreferences.com/2008/07/color-histograms.html  }, 2008.
+
+\bibitem{thirdparty2}
+S.~Gould, O.~Russakovsky, I.~Goodfellow, P.~Baumstrack, A.~Y.~Ng and D.~Koller.
+\newblock The STAIR Vision Library (v2.2)
+\newblock {\em http://ai.stanford.edu/~sgould/svl  }, 2009.
+
+\end{thebibliography}
